@@ -3,7 +3,12 @@ import React from "react";
 
 const row =(props)=>{
     return ( 
-        <div>{props.data.name}</div>
+        <tr>
+            <td>{props.data.name}</td>
+            <td>{props.data.Position}</td>
+            <td>{props.data.Department}</td>
+                <td>{props.data.Manager}</td>
+            </tr>
     ) 
 }
 

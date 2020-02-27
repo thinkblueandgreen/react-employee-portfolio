@@ -41,21 +41,29 @@ filterEmp =(phrase)=>{
         </Row>
 
         <Row>
+        <Col size="md-4"></Col>
+        <Col size="md-5">
+        <h4> Enter the Employee name below:</h4>
+        </Col>
+        </Row>
+
+        <Row>
         <Col size="md-5"></Col>
         <Col size="md-5">
         <input onChange={this.handleInput} value={this.state.inputValue}/>
         </Col>
         </Row>
 
-        <Row>
-        <Col size="md-4"></Col>
-        <Col size="md-5">
-        <h4> Enter the search term below:</h4>
-        </Col>
-        </Row>
+        
 
         
-        <div>
+        <table>
+          <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Department</th>
+            <th>Manager</th>
+            </tr>
         {this.state.filteredEmployees.length ? (
        
         this.state.filteredEmployees.map(employee=>{
@@ -69,7 +77,7 @@ filterEmp =(phrase)=>{
         })
 
         )}
-        </div>
+        </table>
         
       </div>
       </Container>
