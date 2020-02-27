@@ -1,0 +1,123 @@
+
+[
+    {
+      "id": 1,
+      "name": "Jennifer Ruiz",
+      "Position": "Intern",
+      "Department": "Marketing",
+      "Manager": "John David"
+    },
+    {
+      "id": 2,
+      "name": "Rebecca Benitz",
+      "Position": "Engineer",
+      "Department": "SOC",
+      "Manager": "John David"
+    },
+    {
+      "id": 3,
+      "name": "Sandy Sasral",
+      "Position": "Engineer",
+      "Department": "SOC",
+      "Manager": "John David"
+    },
+    {
+      "id": 4,
+      "name": "Nadia ",
+      "Position": "Engineer",
+      "Department": "Chip Hardware",
+      "Manager": "John David"
+    },
+    {
+      "id": 5,
+      "name": "Cindy Blake",
+      "Position": "Engineer",
+      "Department": "Chip Hardware",
+      "Manager": "John David"
+    },
+    {
+      "id": 6,
+      "name": "Steven Erika",
+      "Position": "Engineer",
+      "Department": "Chip Hardware",
+      "Manager": "John David"
+    },
+    {
+      "id": 7,
+      "name": "Christopher Moore",
+      "Position": "Intern",
+      "Department": "SOC",
+      "Manager": "John David"
+    },
+    {
+      "id": 8,
+      "name": "Ben Trish",
+      "Position": "Intern",
+      "Department": "SOC",
+      "Manager": "Elan Shilash"
+    },
+    {
+      "id": 9,
+      "name": "Abi Patel",
+      "Position": "Intern",
+      "Department": "Chip Hardware",
+      "Manager": "Elan Shilash"
+    },
+    {
+      "id": 10,
+      "name": "Vera Patrick",
+      "Position": "Intern",
+      "Department": "Chip Hardware",
+      "Manager": "Peter Travel"
+    },
+    {
+      "id": 11,
+      "name": "Madison Moon",
+      "Position": "Manager",
+      "Department": "Chip Hardware",
+      "Manager": "Peter Travel"
+    },
+    {
+        "id": 12,
+        "name": "Natalie Weiss",
+        "Position": "Manager",
+        "Department": "SOC",
+        "Manager": "Brian Head"
+      },
+      {
+        "id": 13,
+        "name": "Elan Shilash",
+        "Position": "Manager",
+        "Department": "SOC",
+        "Manager": "Brian Head"
+      },
+      {
+        "id": 14,
+        "name": "Thomas Shah",
+        "Position": "staff-Engineer",
+        "Department": "SOC",
+        "Manager": "Steve Roth"
+      },
+      {
+        "id": 15,
+        "name": "Joe Bachich",
+        "Position": "staff-Engineer",
+        "Department": "SOC",
+        "Manager": "Steve Roth"
+      },
+      {
+        "id": 16,
+        "name": "Andrew Stafford",
+        "Position": "staff-Engineer",
+        "Department": "SOC",
+        "Manager": "Steve Roth"
+      },
+    {
+      "id": 17,
+      "name": "Mark Griffin",
+      "Position": "staff-Engineer",
+      "Department": "SOC",
+      "Manager": "Steve Roth"
+    }
+  ]
+  
